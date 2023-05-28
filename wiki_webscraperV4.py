@@ -18,7 +18,7 @@ url = "https://bionic-reading1.p.rapidapi.com/convert"
 payload = f"content={html_content}&response_type=html&request_type=html&fixation=1&saccade=10"
 headers = {
 	"content-type": "application/x-www-form-urlencoded",
-	"X-RapidAPI-Key": "2ccdba05d5msh5708de5758c490bp17a7dejsn49c5b3060483",
+	"X-RapidAPI-Key": "",
 	"X-RapidAPI-Host": "bionic-reading1.p.rapidapi.com"
 }
 
