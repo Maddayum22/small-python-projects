@@ -1,6 +1,6 @@
 import requests
 
-API_CODE = "aa18a4cc0c67e655e37ddba5915217d4"
+API_CODE = ""
 BASE_LINK = "http://api.openweathermap.org/data/2.5/weather"
 
 city = input("Which city do want to know the weather from?: ")
